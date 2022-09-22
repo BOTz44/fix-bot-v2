@@ -1,80 +1,77 @@
-
-## CATATAN
-Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu kakak !
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <img src="https://i.ibb.co/XZrK6yQ/transformers.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/eaabc97cb81180be2c9a6.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">WH MODS BOT - MD</h1>
+<h1 align="center">KannaBOT - MD</h1>
 <p align="center">
-  <a href="https://github.com/WH-MODS-BOT"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=WH+MODS+BOT+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+WH+MODS+DEV;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="WH-MODS-BOT" src="https://img.shields.io/badge/-WH--MODS--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="KannaBOT" src="https://img.shields.io/badge/Kanna BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/WH-MODS-BOT"><img title="Author" src="https://img.shields.io/badge/AUTHOR-WH--MODS--BOT-green?style=for-the-badge&logo=github"></a>
-    
-# Ambil Session Disini
-
-> Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lite=1&outputonly=1#.replit) 
-> Dan Subscribe [ Here ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
+<a href="https://github.com/LeonGantengz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Zakuro-blue.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285736178354">
+  <a href="https://wa.me/6282142185506">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_ctzhid_">
+  <a href="https://www.instagram.com/leonvx._">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow">
-    <img align="left" alt="SIEGRIN | YouTube" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg" />
+  <a href="mailto:leonganz.kry@gmail.com">
+    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6282127487538"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/Group%20All%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HQMa4AGBFKRBi4z4R0MnH4) 
+## ```Whatsapp``` <a href="https://wa.me/6285736178354"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+62895410472842) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285608625102) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/ya4dpmdv) 
 ---------
 
-#### a little about this bot
-- [x] **Fast Respon** 
-- [x] **Simple** 
-- [x] **Button Template** 
-- [x] **Multi Device** 
-- [x] **Button Document(Experiment)** 
+#### KELEBIHAN 🪄
+| Kelebihan | Check |
+|--------|--------|
+| **Fast Respon** |[✔️](https://github.com/ImYanXiao) |
+| **No Internet** |[✔️](https://github.com/ImYanXiao) |
+| **Simple** |[✔️](https://github.com/ImYanXiao) |
+| **Button template** |[✔️](https://github.com/ImYanXiao) |
+| **Multi Device** |[✔️](https://github.com/ImYanXiao) |
 ---------
-#### Some of the features include
-- [x] Downloader 
-- [x] Internet 
-- [x] Game Rpg 
-- [x] Nsfw 
-- [x] Sticker 
-- [x] Game 
-- [x] Kerang Ajaib 
-- [x] Quotes 
-- [x] Anime 
-- [x] Premium 
-- [x] Tools 
-- [x] Exec 
-- [x] React 
+#### FITUR 🎀
+| Fitur | Check |
+|--------|--------|
+| **Downloader** |[✔️](https://github.com/ImYanXiao) |
+| **Internet** |[✔️](https://github.com/ImYanXiao) |
+| **Game Rpg** |[✔️](https://github.com/ImYanXiao) |
+| **Nsfw** |[✔️](https://github.com/ImYanXiao) |
+| **Sticker** |[✔️](https://github.com/ImYanXiao) |
+| **Game** |[✔️](https://github.com/ImYanXiao) |
+| **Kerang Ajaib** |[✔️](https://github.com/ImYanXiao) |
+| **Quotes** |[✔️](https://github.com/ImYanXiao) |
+| **Anime** |[✔️](https://github.com/ImYanXiao) |
+| **Premium** |[✔️](https://github.com/ImYanXiao) |
+| **Tools** |[✔️](https://github.com/ImYanXiao) |
+| **Exec** |[✔️](https://github.com/ImYanXiao) |
+| **React** |[✔️](https://github.com/ImYanXiao) |
 ---------
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/WH-MODS-BOT/fix-bot-v2/blob/master/config.js#L1)
-- Owner Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v2/blob/master/config.js#L1)
-- Bot Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v2/blob/master/config.js#L1)
+- Owner Number [Here](https://github.com/LeonGantengz/kannaxyui/blob/master/config.js#L1)
+- Owner Name [Here](https://github.com/LeonGantengz/kannaxyui-multidevice/blob/master/config.js#L1)
+- Bot Name [Here](https://github.com/LeonGantengz/kannaxyui/blob/master/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kannachann/KannaBOT-MD)
 
 | BuildPack | LINK |
 |--------|--------|
-| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git) |
-| **IMAGEMAGICK** | [here](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
+| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **IMAGEMAGICK** | [here](https://github.com/rocketmobile/heroku-buildpack-imagemagick.git) |
 
 ## TERMUX USER
 ```bash
@@ -83,8 +80,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/WH-MODS-BOT/fix-bot-v2
-$ cd fix-bot-v2
+$ git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+$ cd Kanna-MultiDevice
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -92,7 +89,7 @@ If error try using yarn instead of npm, see [here](https://github.com/BochilGami
 $ node .
 ```
 
-#### For android 10 and above don't use npm, use yarn install
+#### If npm install failed, try using yarn instead of npm
 ```bash
 $ pkg install yarn -y
 $ yarn install
@@ -120,14 +117,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & WH-MODS-BOT-MD]
+[ INSTALLING NODEJS & KANNABOT-MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/WH-MODS-BOT/fix-bot-v2
-cd fix-bot-v2
+git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+cd Kanna-MultiDevice
 npm install
 npm update
 ```
@@ -142,8 +139,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/WH-MODS-BOT/fix-bot-v2
-cd fix-bot-v2
+git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+cd Kanna-MultiDevice
 npm install
 npm update
 ```
@@ -223,11 +220,10 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 ### 📮 S&K
-1. Don't For Sale
-2. Don't forget give star this repo
-3. Follow Github
-4. Don't use this repository wrong!
-5. If you have problem chat me in owner number
+1. Jangan diperjual belikan Script ini
+2. Sebelum pakai jangan lupa kasih star
+3. Follow Github !
+4. Jangan salah gunakan script ini!
 
 ---------
 
@@ -236,18 +232,25 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/WH-MODS-BOT)
-* [`My parents`](https://github.com/WH-MODS-BOT)
-* [`All Friends`](https://github.com/WH-MODS-BOT)
-* [`All Contributors`](https://github.com/WH-MODS-BOT)
-* [`All Creator Bot`](https://github.com/WH-MODS-BOT)
+* [`Allah SWT`](https://github.com/ImYanXiao)
+* [`My parents`](https://github.com/ImYanXiao)
+* [`All Friends`](https://github.com/ImYanXiao)
+* [`All Contributors`](https://github.com/ImYanXiao)
+* [`All Creator Bot`](https://github.com/ImYanXiao)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
-* [`ImYanXiao`](https://github.com/ImYanXiao)
-* [`KannaChann`](https://github.com/kannachann) 
-* [`The.Sad.Boy01`](https://github.com/Kangsad01) 
-* [`Papah-Chan`](https://github.com/FahriAdison) 
+* [`KannaChan`](https://github.com/kannachann)
+* [`LeonGanz`](https://github.com/LeonGantengz)
+ 
 
 ## ```Recode By ✏️```
-[![WH-MODS-BOT](https://github.com/WH-MODS-BOT.png?size=70)](https://github.com/WH-MODS-BOT)
+[![Zakuro](https://github.com/Bl4ck-lion.png?size=70)](https://github.com/ImYanXiao)
+
+## ```Contributor 🤝```
+* [`The.Sad.Boy01`](https://github.com/Kangsad01)
+* [`AmirulDev20`](https://github.com/amiruldev20)
+* [`Rasel Comel`](https://github.com/raselcomel)
+* [`Rominaru`](https://github.com/rominaru)
+* [`KannaChan`](https://github.com/kannachann)
+* [`Fahri Adison`](https://github.com/FahriAdison) 
