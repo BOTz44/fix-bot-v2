@@ -24,14 +24,13 @@ handler.all = async function (m, { isBlocked }) {
     ╰═┅═━––––––๑
     
     ⫹⫺ PAYMENT:
-    • Pulsa Telkomsel: [082127487538]
-    • Dana: [082127487538]
-    • Gopay: [082127487538]
-    • Ovo: [082127487538]
-    • Link Aja: [082127487538]
+    • Dana
+    • Gopay
+    • Ovo
+    • QRIS
     
     Nomor Owner :
-    wa.me/6282127487538
+    wa.me/6282142185506
     
     ▌│█║▌║▌║║▌║▌║█│▌
     
